@@ -35,7 +35,7 @@ I’ve worked on production systems across SaaS, fintech, and blockchain — bui
 
 ### Tech I use confidently
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,react,reactnative,nextjs,nodejs,express,mongodb,postgres,git,github,docker,aws,vercel,jenkins,html,css,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,nodejs,express,mongodb,postgres,git,github,docker,aws,vercel,jenkins,html,css,tailwind)](https://skillicons.dev)
 
 
 ---
