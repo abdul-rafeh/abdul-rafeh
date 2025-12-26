@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 ## Hi, I’m Abdul Rafeh 👋
-Software Engineer with industry experience building full-stack products, now focused on backend systems, data, and applied AI through graduate-level coursework and projects.
+Software Engineer, based in New York, with industry experience building full-stack products, now focused on backend systems, data, and applied AI through graduate-level coursework and projects.
 
 ---
 
